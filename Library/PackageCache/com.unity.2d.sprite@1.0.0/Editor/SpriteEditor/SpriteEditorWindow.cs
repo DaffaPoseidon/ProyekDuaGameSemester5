@@ -516,6 +516,11 @@ namespace UnityEditor.U2D.Sprites
             if (noSelectedSprite)
                 UpdateSelectedSpriteRectFromSelection();
             UnityEditor.SpriteUtilityWindow.SetApplySpriteEditorWindow(RebuildCache);
+<<<<<<< HEAD
+
+            if (SetupVisualElements())
+                InitModules();
+=======
 
             if (SetupVisualElements())
                 InitModules();
@@ -528,6 +533,7 @@ namespace UnityEditor.U2D.Sprites
                 if (SetupVisualElements())
                     InitModules();
             }
+>>>>>>> 67eff58a0301d86f958e35c5fa6a059133efeeb8
         }
 
         private bool SetupVisualElements()

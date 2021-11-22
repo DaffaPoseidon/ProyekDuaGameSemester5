@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+Base path: 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines'
+=======
+<<<<<<< HEAD
 Base path: 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.3.22f1/Editor/Data/PlaybackEngines'
+>>>>>>> 67eff58a0301d86f958e35c5fa6a059133efeeb8
 Cmd: initializeCompiler
 
 Cmd: compileSnippet
